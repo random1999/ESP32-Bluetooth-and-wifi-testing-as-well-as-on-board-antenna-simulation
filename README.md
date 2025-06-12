@@ -6,3 +6,5 @@ WiFiConnect_OLEDdisplay：
 The ESP32 connects to the Internet via wifi, acquires date and weather information, and displays it on the OLED screen. Each time a button is pressed, the display content is switched
 
 
+ESP32 AntennaSim：
+using ANSYS EM desktop simulates the ESP32 on-board antenna
