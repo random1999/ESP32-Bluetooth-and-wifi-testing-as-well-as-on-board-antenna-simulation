@@ -1,7 +1,0 @@
-$begin 'ValidationCache'
-	$begin 'OneValidationResult'
-		Variation='Capa1=\'1pF\' Capa2=\'1pF\' gap_width=\'0.30987999999999999mm\' ind1=\'1nH\' Line_length=\'5mm\' LineWidth=\'0.32003999999999999mm\''
-		Status=true
-		FileName='VI77EC146841749700874171.tmp'
-	$end 'OneValidationResult'
-$end 'ValidationCache'
